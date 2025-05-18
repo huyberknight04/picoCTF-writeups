@@ -3,8 +3,8 @@
 - **Difficultly**:
 - **Category**:
 - **Platform**:
-- **Author**:
 - **Tag**:
+- **Author**:
 - **Date**:
 
 ---
