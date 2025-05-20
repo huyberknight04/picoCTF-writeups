@@ -15,7 +15,7 @@
 
 ---
 
-# :hammer_and_wrench: Solution
+# :unlock: Solution
 
 1. ...
 2. ...
@@ -31,12 +31,17 @@
 
 # :writing_hand: Notes
 
-...
+- ...
 
 ---
 
 # :books: Resources
 
-1. ...
-2. ...
+- ...
+
+---
+
+# :hammer_and_wrench: Tools used
+
+- ...
 
