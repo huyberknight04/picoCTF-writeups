@@ -1,6 +1,6 @@
 # :briefcase: Challenge name
 
-- **Difficultly**:
+- **Difficulty**:
 - **Category**:
 - **Platform**:
 - **Tag**:
@@ -18,8 +18,8 @@
 # :unlock: Solution
 
 1. ...
-2. ...
-3. ...
+2. 
+3. 
 
 ---
 
@@ -31,17 +31,17 @@
 
 # :writing_hand: Notes
 
-- ...
+...
 
 ---
 
 # :books: Resources
 
-- ...
+...
 
 ---
 
 # :hammer_and_wrench: Tools used
 
-- ...
+...
 
